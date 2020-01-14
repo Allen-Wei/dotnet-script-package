@@ -1,3 +1,5 @@
+#!/usr/bin/env dotnet-script
+
 #r "nuget: Newtonsoft.Json, 12.0.2"
 #load "../utils/Arguments/ArgumentBuilder.csx"
 #load "../utils/Utils.csx"
